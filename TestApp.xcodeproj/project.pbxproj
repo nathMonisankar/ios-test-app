@@ -8,9 +8,11 @@
 
 /* Begin PBXBuildFile section */
 		E656715D2CEB6C91002DD8D0 /* IosAlertVIew in Frameworks */ = {isa = PBXBuildFile; productRef = E656715C2CEB6C91002DD8D0 /* IosAlertVIew */; };
+		E656715F2CEB6D64002DD8D0 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = E656715E2CEB6D64002DD8D0 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E656715E2CEB6D64002DD8D0 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		E6E347F92CEB22EE00A9509A /* TestApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -37,6 +39,7 @@
 		E6E347F02CEB22EE00A9509A = {
 			isa = PBXGroup;
 			children = (
+				E656715E2CEB6D64002DD8D0 /* README.md */,
 				E6E347FB2CEB22EE00A9509A /* TestApp */,
 				E6E347FA2CEB22EE00A9509A /* Products */,
 			);
@@ -118,6 +121,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E656715F2CEB6D64002DD8D0 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
