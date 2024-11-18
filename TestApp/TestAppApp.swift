@@ -6,12 +6,14 @@
 //
 
 import SwiftUI
+import IosAlertVIew
 
 @main
 struct TestAppApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .overlay(AlertView())
         }
     }
 }

@@ -1,0 +1,15 @@
+{
+  "originHash" : "a1d2423b08e80e3ad925a31671fa055e96a730a37fa0f64b978933c80b5e21e1",
+  "pins" : [
+    {
+      "identity" : "ios-alert-view",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nathMonisankar/ios-alert-view.git",
+      "state" : {
+        "revision" : "3d0efb1a95216f225c821d9eee1fea330c35b57d",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
